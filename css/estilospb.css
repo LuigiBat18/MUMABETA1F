@@ -1,0 +1,7 @@
+body {
+    background-image: url(../images/greenmilitar.jpg);
+}
+
+.mi-boton:hover {
+    background-color: #18811b; /* color de fondo al pasar el ratón */
+  }
